@@ -10,4 +10,4 @@ C is a procedural programming language initially developed by Dennis Ritchie in 
 
 ### Learn More:
 - [More about C](https://en.wikipedia.org/wiki/C_(programming_language))
-- [More about C](https://en.wikipedia.org/wiki/List_of_C-family_programming_languages)
+- [More about C](https://www.w3schools.com/c/c_intro.php)

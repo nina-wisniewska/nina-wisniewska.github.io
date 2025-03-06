@@ -1,10 +1,4 @@
-# Python
-
-## Position: 1
-
-Logo: ![Python](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Python.png)
-
-OPIS : 
+# Python ![Python](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/Python.png)
 
 Python is a programming language that is widely used in web applications, software development, data science, and machine learning (ML). Developers use Python because it is efficient and easy to learn and can run on many different platforms. Python software is free to download, integrates well with all types of systems, and increases development speed.
 
@@ -20,4 +14,4 @@ Python is a high-level, interpreted, interactive and object-oriented scripting l
 
 ### Learn More:
 - [More about Python](https://www.python.org/)
-More details will be added here.
+- [More about Python](https://www.python.org/about/gettingstarted/)

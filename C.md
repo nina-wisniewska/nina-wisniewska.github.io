@@ -1,10 +1,4 @@
-# C
-
-## Position: 4
-
-Logo: ![C](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C.png)
-
-OPIS : 
+# C ![C](https://www.tiobe.com/wp-content/themes/tiobe/tiobe-index/images/C.png)
 
 C is a procedural programming language with a static system that has the functionality of structured programming, recursion, and lexical variable scoping. C was created with constructs that transfer well to common hardware instructions. It has a long history of use in programs previously written in assembly language.
 
@@ -16,4 +10,4 @@ C is a procedural programming language initially developed by Dennis Ritchie in 
 
 ### Learn More:
 - [More about C](https://en.wikipedia.org/wiki/C_(programming_language))
-More details will be added here.
+- [More about C](https://en.wikipedia.org/wiki/List_of_C-family_programming_languages)
